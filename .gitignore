@@ -1,3 +1,6 @@
+.idea/
+target/
+gmall-wwj.iml
 # Compiled class file
 *.class
 
