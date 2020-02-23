@@ -1,12 +1,17 @@
 .idea/
 target/
 gmall-wwj.iml
+gmall-admin.iml
+gmall-core.iml
 # Compiled class file
 *.class
 
 # Log file
 *.log
-
+.idea/
+*.iml
+*.mvn
+mvnw**
 # BlueJ files
 *.ctxt
 
